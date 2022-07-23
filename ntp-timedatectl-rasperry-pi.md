@@ -1,6 +1,6 @@
 # Time synchronization on Raspberry Pi: Timedatectl
 
-El **problema** era que el Rasperry Pi con el OS DietPi no estaba sincronizando la hora
+El **problema** era que el Raspberry Pi con el OS DietPi no estaba sincronizando la hora
 
 * **Paso 1:** Editar el archivo con el siguiente comando `sudo nano /etc/systemd/timesyncd.conf`
 
