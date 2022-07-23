@@ -48,3 +48,4 @@ sudo timedatectl set-timezone America/Bogota
 **Referencias**
 * https://serverfault.com/questions/948974/force-systemd-timesyncd-to-sync-time-with-ntp-server-immediately
 * https://raspberrytips.com/time-sync-raspberry-pi/
+* https://unix.stackexchange.com/questions/655488/synchronizing-ntp-machines-with-a-high-root-time-server
